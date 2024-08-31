@@ -1,5 +1,3 @@
-let product = "https://www.demoblaze.com/prod.html?idp_=15";
-
 describe('Checkout',()=>{
     beforeEach(()=>{
 
